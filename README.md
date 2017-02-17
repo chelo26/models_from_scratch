@@ -1,2 +1,5 @@
-# models_from_scratch
+# README
 # Simple Implementation of the basic machine learning models
+
+
+
