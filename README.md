@@ -1,5 +1,5 @@
 # README
-# Simple Implementation of the basic machine learning models
+Simple Implementation of the basic machine learning models
 
 
 
